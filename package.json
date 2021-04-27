@@ -1,4 +1,5 @@
-{ .env
+.env
+{ 
   "name": "octocat-memory-game",
   "description": "Memory game with Octocats",
   "version": "2.6.9",
